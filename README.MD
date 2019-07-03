@@ -40,3 +40,5 @@ Just Drag & Drop the BalloonProgressBar into your Form.
 ## License
 
 BalloonProgressBar is released under the MIT Licence.
+
+Unpated on 03/07/2019
