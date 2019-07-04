@@ -21,9 +21,10 @@ Just Drag & Drop the BalloonProgressBar into your Form.
 ```
 ## Updated  (03-07-2019)
 * Class Balloonprogressbar, method reset()
-...
-     * THIS.conpointer.conRate.lblRate.CAPTION =  "0%"
-...
+```
+    THIS.conpointer.conRate.lblRate.CAPTION =  "0%".
+```
+
 
 ## Images
 
